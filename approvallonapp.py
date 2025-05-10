@@ -10,9 +10,9 @@ import seaborn as sns
 import os
 
 # Load saved models and encoders from approvalloan1.py paths
-model_path = r"D:\Documents\Desktop\predict loan approval\logistic_regression_model.pkl"
-scaler_path = r"D:\Documents\Desktop\predict loan approval\scaler.pkl"
-encoder_path = r"D:\Documents\Desktop\predict loan approval\label_encoders.pkl"
+model_path = "logistic_regression_model.pkl"
+scaler_path = "scaler.pkl"
+encoder_path = "label_encoders.pkl"
 
 model = joblib.load(model_path)
 scaler = joblib.load(scaler_path)
