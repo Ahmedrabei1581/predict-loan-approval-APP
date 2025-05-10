@@ -77,8 +77,8 @@ model.fit(X_train, y_train)]]
 ## How to Run
 ### 1- Clone the repository:
 [bash
-git clone https://github.com/yourusername/loan-risk-approval.git
-cd loan-risk-approval]
+git clone https://github.com/yourusername/predict-loan-approval-APP.git
+cd predict-loan-approval-APP]
 ### 2- Install dependencies:
 [bash
 pip install -r requirements.txt]
