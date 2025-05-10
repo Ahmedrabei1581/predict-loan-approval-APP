@@ -107,3 +107,9 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn scipy]
 * Visualized insights for business and risk teams.
 ## Contributing
 Contributions are welcome! Please open issues or pull requests for improvements, additional models, or new analyses.
+
+## For any questions, please contact 
+### [https://github.com/Ahmedrabei1581].
+### [linkedin.com/in/ahmed-rabei-85abb6204]
+### [ahmedrabei1581@gmail.com]
+Happy analyzing and modeling! 🚀
